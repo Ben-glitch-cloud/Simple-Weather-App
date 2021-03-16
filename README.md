@@ -7,14 +7,23 @@
  
  <h2>What does this app use</h2> 
 
-<h4>Languages</h4>
+<h4>Languages</h4> 
+
 <p><img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&logoColor=orange"> <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=blue"></p>
  
  <h4>Gems</h4> 
 
 <p><img src="https://img.shields.io/badge/-Rspec-black?logo=RubyGems&logoColor=red"> <img src="https://img.shields.io/badge/-Sinatra-black?logo=RubyGems&logoColor=yellow"> <img src="https://img.shields.io/badge/-Httparty-black?logo=RubyGems&logoColor=green"> <img src="https://img.shields.io/badge/-Capybara-black?logo=RubyGems&logoColor=lightblue"></p>
 
-<h2>How to get set up</h2>  
+<h4>Data</h4> 
+
+<img src="https://img.shields.io/badge/-JSON-black?logo=JSON&logoColor=darkgreen"> 
+
+<h4>API</h4>
+ 
+<img src="https://img.shields.io/badge/-OpenWeather-black?logo=Cloudways&logoColor=orange">  
+ 
+ <h2>How to get set up</h2>  
 
 <p>1: First fork the repository</p>  
 <p>2: Then clone the repository by copying the URL found in the copy with HTTPS.</p>
