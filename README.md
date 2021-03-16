@@ -2,7 +2,7 @@
  
 <h2>Intro</h2>
 
-<img href="https://user-images.githubusercontent.com/71974361/111329351-f9c2a000-8666-11eb-8c6d-04865879d6a7.gif"> 
+<img align="center" src="https://user-images.githubusercontent.com/71974361/111329351-f9c2a000-8666-11eb-8c6d-04865879d6a7.gif" width="250" hight="250"/>
 
 <p>Welcome to my simple weather app,  where you can search for the weather anywhere in the  United Kingdom.</p>   
  
