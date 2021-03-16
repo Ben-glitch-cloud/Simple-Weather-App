@@ -3,25 +3,25 @@
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/71974361/111329351-f9c2a000-8666-11eb-8c6d-04865879d6a7.gif" width="250" hight="250"/></p> 
 
 <h2>Intro</h2>
-<p>Welcome to my simple weather app,  where you can search for the weather anywhere in the  United Kingdom. 🇬🇧</p>   
+<p align="center">Welcome to my simple weather app,  where you can search for the weather anywhere in the  United Kingdom. 🇬🇧</p>   
  
  <h2>What does this app use</h2> 
 
-<h4>Languages</h4> 
+<h4 align="center">Languages</h4> 
 
-<p><img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&logoColor=orange"> <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=blue"></p>
+<p align="center"><img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&logoColor=orange"> <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=blue"></p>
  
- <h4>Gems</h4> 
+ <h4 align="center">Gems</h4> 
 
-<p><img src="https://img.shields.io/badge/-Rspec-black?logo=RubyGems&logoColor=red"> <img src="https://img.shields.io/badge/-Sinatra-black?logo=RubyGems&logoColor=yellow"> <img src="https://img.shields.io/badge/-Httparty-black?logo=RubyGems&logoColor=green"> <img src="https://img.shields.io/badge/-Capybara-black?logo=RubyGems&logoColor=lightblue"></p>
+<p align="center"><img src="https://img.shields.io/badge/-Rspec-black?logo=RubyGems&logoColor=red"> <img src="https://img.shields.io/badge/-Sinatra-black?logo=RubyGems&logoColor=yellow"> <img src="https://img.shields.io/badge/-Httparty-black?logo=RubyGems&logoColor=green"> <img src="https://img.shields.io/badge/-Capybara-black?logo=RubyGems&logoColor=lightblue"></p>
 
-<h4>Data</h4> 
+<h4 align="center">Data</h4> 
 
-<img src="https://img.shields.io/badge/-JSON-black?logo=JSON&logoColor=darkgreen"> 
+<p align="center"><img src="https://img.shields.io/badge/-JSON-black?logo=JSON&logoColor=darkgreen"></p> 
 
-<h4>API</h4>
+<h4 align="center">API</h4>
  
-<img src="https://img.shields.io/badge/-OpenWeather-black?logo=Cloudways&logoColor=orange">  
+<p align="center"><img src="https://img.shields.io/badge/-OpenWeather-black?logo=Cloudways&logoColor=orange"></p>
  
  <h2>How to get set up</h2>  
 
@@ -73,15 +73,21 @@ $ rvm 2.5.0
 
 ```
 @appid="r4325423h23oiu4t73yto329yt"
+``` 
+
+<p>8: Now for some testing, run rspec to check that all tests are working</p> 
+``` 
+$ rspec 
 ```
-<p>8: Now you are ready to use the app. Type into the terminal rackup and press enter</p>   
+
+<p>9: Now you are ready to use the app. Type into the terminal rackup and press enter</p>   
 
 ``` 
 $ rackup
 ```
 
-<p>9: Now open a new Browser window and type in localhost9292</p>  
+<p>10: Now open a new Browser window and type in localhost9292</p>   
 
-<h3>👏All Done✅</h3>
+<h3>👏 All Done ✅</h3>
 
 
