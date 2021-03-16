@@ -2,10 +2,10 @@
 
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/71974361/111329351-f9c2a000-8666-11eb-8c6d-04865879d6a7.gif" width="250" hight="250"/></p> 
 
-<h2>Intro</h2>
+<h2 align="center">Intro</h2>
 <p align="center">Welcome to my simple weather app,  where you can search for the weather anywhere in the  United Kingdom. 🇬🇧</p>   
- 
- <h2>What does this app use</h2> 
+ </br>
+ <h2 align="center">What does this app use</h2> 
 
 <h4 align="center">Languages</h4> 
 
@@ -22,8 +22,8 @@
 <h4 align="center">API</h4>
  
 <p align="center"><img src="https://img.shields.io/badge/-OpenWeather-black?logo=Cloudways&logoColor=orange"></p>
- 
- <h2>How to get set up</h2>  
+ </br>
+ <h2 align="center">How to get set up</h2>  
 
 <p>1: First fork the repository</p>  
 <p>2: Then clone the repository by copying the URL found in the copy with HTTPS.</p>
