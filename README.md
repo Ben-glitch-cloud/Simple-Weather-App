@@ -6,9 +6,12 @@
 
 <h2>How to use</h2>  
 
-<p>First fork the repository  and then clone it</p> 
+<p>1: First fork the repository</p>  
+<p>2: Then clone the repository by  copying the URL founding clone with HTTPS.</p>
 
 ```  
-$ git clone  
+$ git clone https://github.com/Ben-glitch-cloud/Simple-Weather-App.git 
 
-```
+``` 
+
+
