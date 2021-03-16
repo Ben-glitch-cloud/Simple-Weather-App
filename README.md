@@ -8,17 +8,11 @@
  <h2>What does this app use</h2> 
 
 <h4>Languages</h4>
-<p>Ruby</p>  
-<p>HTML</p> 
-<p>CSS</p> 
+<p><img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&logoColor=orange"> <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=blue"></p>
+ 
+ <h4>Gems</h4> 
 
-<h4>Gems</h4> 
-
-<p>Sinatra</p> 
-<p>Rspec</p>
-<p>capybara</p>
-<p>httparty</p>
-
+<p><img src="https://img.shields.io/badge/-Rspec-black?logo=RubyGems&logoColor=red"> <img src="https://img.shields.io/badge/-Sinatra-black?logo=RubyGems&logoColor=yellow"> <img src="https://img.shields.io/badge/-Httparty-black?logo=RubyGems&logoColor=green"> <img src="https://img.shields.io/badge/-Capybara-black?logo=RubyGems&logoColor=lightblue"></p>
 
 <h2>How to get set up</h2>  
 
