@@ -1,8 +1,23 @@
 <h1 align="center"> Simple-Weather-App</h1>  
  
-<h2>Intr</h2>
+<h2>Intro</h2>
  
-<p>Welcome to my simple weather app,  where you can search for the weather anywhere in the  United Kingdom.</p> 
+<p>Welcome to my simple weather app,  where you can search for the weather anywhere in the  United Kingdom.</p>  
+
+<h2>What does this app use</h2> 
+
+<h4>Languages</h4>
+<p>Ruby</p>  
+<p>HTML</p> 
+<p>CSS</p> 
+
+<h4>Gems</h4> 
+
+<p>Sinatra</p> 
+<p>Rspec</p>
+<p>capybara</p>
+<p>httparty</p>
+
 
 <h2>How to get set up</h2>  
 
@@ -45,7 +60,8 @@ $ rvm 2.5.0
 @appid = ""  
 ``` 
 
-<p>6: Follow the link below and register with the OpenWeather API. Once you have registered you  will be given a  API key. Which can be found in api_keys section of your profile.</p> 
+<p>6: Follow the link below and register with the OpenWeather API. Once you have registered you  will be given a  API key. Which can be found in api_keys section of your profile.</p>  
+
 <a href="https://openweathermap.org/">openweathe</a> 
 
 <p>7:Copy the API into the empty @appid string.</p>  
