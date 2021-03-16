@@ -1,10 +1,12 @@
 <h1 align="center"> Simple-Weather-App</h1>  
  
 <h2>Intro</h2>
- 
-<p>Welcome to my simple weather app,  where you can search for the weather anywhere in the  United Kingdom.</p>  
 
-<h2>What does this app use</h2> 
+<img href="https://user-images.githubusercontent.com/71974361/111329351-f9c2a000-8666-11eb-8c6d-04865879d6a7.gif"> 
+
+<p>Welcome to my simple weather app,  where you can search for the weather anywhere in the  United Kingdom.</p>   
+ 
+ <h2>What does this app use</h2> 
 
 <h4>Languages</h4>
 <p>Ruby</p>  
