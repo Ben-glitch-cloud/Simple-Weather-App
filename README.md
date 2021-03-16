@@ -76,6 +76,7 @@ $ rvm 2.5.0
 ``` 
 
 <p>8: Now for some testing, run rspec to check that all tests are working</p> 
+
 ``` 
 $ rspec 
 ```
