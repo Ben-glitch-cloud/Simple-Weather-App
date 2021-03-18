@@ -37,6 +37,5 @@ class WeatherInfo
             @cityinfo 
         end  
     end   
-
 end
 
