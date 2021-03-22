@@ -4,7 +4,14 @@
 
 <h2 align="center">Intro</h2>
 <p align="center">Welcome to my simple weather app,  where you can search for the weather anywhere in the  United Kingdom. 🇬🇧</p>   
- </br>
+</br>
+</br> 
+<h2 align="center">Screen Shots</h2> 
+
+<p align="center"><img width="500" src="https://user-images.githubusercontent.com/71974361/111704353-ea924c80-8836-11eb-869b-e0f24bfb2f08.png"> <img width="500" src="https://user-images.githubusercontent.com/71974361/111704557-3d6c0400-8837-11eb-979e-6ff493b6c205.png"> <img width="500" src="https://user-images.githubusercontent.com/71974361/111704691-7b692800-8837-11eb-94d2-91e6d519e2f8.png"> </p>    
+
+ </br> 
+ 
  <h2 align="center">What does this app use</h2> 
 
 <h4 align="center">Languages</h4> 
