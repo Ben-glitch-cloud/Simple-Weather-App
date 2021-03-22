@@ -18,7 +18,7 @@ class LocalWeather < Sinatra::Base
     erb :'cityweather/new'  
   end   
 
-  post '/' do 
+  post '/pushing' do 
     weathername = WeatherCall.new     
     if params[:city].length != 0
       session[:city] = params[:city]    
