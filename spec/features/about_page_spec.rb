@@ -26,25 +26,18 @@ feature 'Look at about page' do
 end
 
 feature 'Search weather page' do
-    scenario 'should return back to weather page if there is nothing to search' do
+    scenario 'should return error if the search is felt empty' do
         visit('/new') 
         fill_in 'city', with: '' 
         click_button 'Search' 
-        expect(page).to have_content 'Weather Search'
+        expect(page).to have_content 'The location must be within the UK.'
     end 
 
-    scenario 'should return back to weather page if the name of the location is wrong' do
-        visit('/new') 
-        fill_in 'city', with: 'Lonon' 
-        click_button 'Search' 
-        expect(page).to have_content 'Weather Search'
-    end 
-
-    scenario 'should return back to weather page if location is not in the United Kingdom' do
+    scenario 'should return error if the name is not from the UK' do
         visit('/new') 
         fill_in 'city', with: 'Oslo' 
         click_button 'Search' 
-        expect(page).to have_content 'Weather Search'
-    end
+        expect(page).to have_content 'The location name must exist.'
+    end 
 end  
 
