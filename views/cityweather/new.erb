@@ -21,21 +21,24 @@
                 <a id="link" href="/">Back</a>
             </div>
         </div>  
-        <div class="alert">
-            <h3 id="error"><%= flash[:notice] %></h3> 
-        <div>
-        <div class="form">  
+        <div class="form">   
+
             <div class="form_item"> 
                 <h3>Weather Search</h3>
-            </div>
+            </div>  
+
+            <div class="form_item">
+                <h3 id="error"><%= flash[:notice] %></h3> 
+            </div> 
+
             <div class="form_item">
                 <form action="/pushing" method="post">  
                     <input class="input" type="city" name="city"/> 
                     <input id="button" type="submit" value="Search"/> 
                 </form>     
             </div>  
-        </div>   
-        <footer> 
+        </div>    
+        <footer>  
             <p>Created by Benedict Lawrence</p>
         </footer>
     </body>
